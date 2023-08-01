@@ -4,4 +4,4 @@ This repository serves as a collection of all handouts and topics covered during
 
 Feel free to explore the materials and code samples to gain insights into the various taught web dev concepts and practices.
 
-In order to get more familiar with git I only used the command-line interface to save and structure all files.
+For every single topic there were between 1-6 challenges to apply the new knowledge. Those challenges can't be found here to prevent abuse of the excercices created by the course provider.
